@@ -1,0 +1,117 @@
+body{
+ background-color: beige;
+
+    
+}
+
+.small{
+    width: 25%;
+    display: block;
+    margin: 1px auto;
+     margin-top: 200px;
+     margin-left: 35%;
+   }
+   div{
+     position: relative;
+     margin-top: 10px;
+   }
+   
+   .about:hover{
+    color: blue;
+   }
+   .store{
+    margin-left: 5px;  
+     
+    
+   }
+   .store:hover{
+       color: crimson;
+   }
+   .gmail{
+     margin-left: 78%;
+     
+
+   }
+   .gmail:hover{
+
+    color: darkred;
+   }
+   .images{
+       margin-left: 5px;
+       
+
+   }
+   .images:hover{
+    color: dodgerblue;
+
+   }
+   .symbol{
+
+    width: 1.5%;
+    float: right;
+    
+    margin-right: 5%;
+    margin-top: 1px;
+   }
+   .symbol:hover{
+    background-color: firebrick;
+
+   }
+   .img{
+
+    width: 40px;
+    border-radius: 100%;
+    float: right;
+    margin-right: -75px;
+    margin-top: -7px;
+
+
+   }
+   form{
+
+    width: 800px;
+    margin: auto;
+    margin-left: 420px;
+
+    }
+    .bar{
+    width: 50%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 50px;
+    border: 3px  ;
+    color: indigo;
+    }
+    .search{
+    width: 10%;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: -50px;
+    }
+    .search:hover{
+     color: firebrick;
+
+    }
+    .recherch{
+        margin-left: 10%;
+        background-color: lightgray;
+        padding: 3px;
+        font-size: 18px;
+        margin-top: 40px;
+        border-radius: 5px;
+        color: gray;
+
+
+    }
+    .feel{
+        margin-left: 1%;
+        background-color: lightgray;
+        padding: 3px;
+        font-size: 18px;
+        margin-top: 40px;
+        border-radius: 5px;
+
+    }
+
+
+   
